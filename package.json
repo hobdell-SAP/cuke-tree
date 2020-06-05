@@ -11,7 +11,9 @@
     "JSONStream": "^1.3.5",
     "ansi-color": "=0.2.1",
     "async": "=3.2.0",
+    "body-parser": "^1.19.0",
     "cloneextend": "=0.0.3",
+    "commander": "latest",
     "dateformat": "~3.0.3",
     "express": "^4.17.1",
     "fluid": "= 0.1.3",
@@ -26,8 +28,7 @@
     "socket.io": "=2.3.0",
     "string": "=3.3.3",
     "walk": "=2.3.14",
-    "xml2js": "=0.4.23",
-    "commander": "latest"
+    "xml2js": "=0.4.23"
   },
   "devDependencies": {
     "cucumber": "^6.0.5",
